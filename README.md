@@ -14,5 +14,6 @@
 	react-native start
 
 5)To install Firebase:
-	react-native save --firebase 
+	sudo npm install --save firebase
+
 
